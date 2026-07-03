@@ -1,0 +1,36 @@
+# Database file (contains student data)
+*.sql
+*.db
+*.sqlite
+
+# Uploaded photos (large files)
+uploads/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+
+# XAMPP files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# IDE files
+.idea/
+*.iml
+
+# Hidden files
+.env
+config.php
+.env.local
